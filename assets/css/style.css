@@ -1,0 +1,36 @@
+* {
+    font-family:Arial, Helvetica, sans-serif ;
+    margin: 13px;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.score {
+    color: rgb(158, 53, 255);
+}
+
+main {
+    
+    text-align: center;
+    margin-top: 10%;
+}
+
+button {
+    color: white;
+    border-radius: 0.3rem;
+    font-size: 1rem;
+    margin: 0;
+    padding: 0.5rem 1.2rem;
+    text-transform: none;
+    border: none;
+    overflow: visible;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    outline: none;
+    background-color: rgb(58, 1, 105);
+}
