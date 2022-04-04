@@ -43,10 +43,7 @@ main {
 
 }
 
-.question-one {
-    display: none;
-}
-
-.question-two {
+.question-one, .question-two, .question-three,
+.question-four, .question-five, .all-done, .high-scores {
     display: none;
 }

@@ -8,3 +8,31 @@ function startQuiz() {
     homePage.style.display = "none"
 }
 startButtonEl.addEventListener("click", startQuiz)
+
+
+// Timer
+var seconds = 0;
+
+var quizTimer = document.getElementById("timer");
+console.log(quizTimer);
+function countDown() {
+    setInterval(quizTimer, 60000)
+
+quizTimer.addEventListener("click", startQuiz())
+}
+
+
+
+
+
+// quiz timer
+// var count = 3600
+
+// var quizTimer = setInterval(function() {
+//     document.getElementById('timer')=count;
+//     count--;
+//         if (count === 0) {
+//             clearInterval(quizTimer);
+//             document.getElementById('timer')='done';
+//         }
+// });
