@@ -7,5 +7,5 @@ The code quiz will begin after the start quiz button is clicked. The proceeding 
 **There are some issues that still need to be addressed. I plan to rework the current issues and re-submit.
 
 ________________
-Link to Horiseon Website:
+Link to Code Quiz Website:
 https://krista20.github.io/code-quiz/
